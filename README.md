@@ -14,7 +14,7 @@ This is my first project in the Frontend Developer roadmap. It's a simple, profe
 ## 🚀 How to View
 
 ### Option 1: View Online
-Simply click the live demo link above to see the CV in your browser.
+Simply click the live demo : https://indritmatjani.github.io/Single-Page-CV---Roadmap.sh/
 
 ### Option 2: Run Locally
 1. Clone this repository or download the ZIP file
