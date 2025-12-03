@@ -2,11 +2,6 @@
 
 A clean and responsive single-page CV built with HTML and CSS as part of the [roadmap.sh Frontend Developer path](https://roadmap.sh/projects/single-page-cv).
 
-## 🔗 Live Demo
-
-[View Live CV](https://indritmatjani.github.io/Single-Page-CV---Roadmap.sh/)
-*(Note: Update this link once GitHub Pages is activated)*
-
 ## 📝 About
 
 This is my first project in the Frontend Developer roadmap. It's a simple, professional CV layout created using only HTML and CSS—no frameworks or libraries. The goal was to practice semantic HTML structure, CSS styling, and creating a clean, readable document layout.
